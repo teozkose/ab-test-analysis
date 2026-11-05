@@ -1,0 +1,16 @@
+{
+  "baseline": 0.035,
+  "mde_relative": 0.1,
+  "alpha": 0.05,
+  "power": 0.8,
+  "daily_users": 3500,
+  "n_per_arm": 45338,
+  "days_needed": 26,
+  "days_planned": 28,
+  "n_per_arm_for_mde": {
+    "5%": 177265,
+    "10%": 45338,
+    "15%": 20598,
+    "20%": 11836
+  }
+}
